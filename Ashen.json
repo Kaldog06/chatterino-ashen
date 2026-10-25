@@ -1,0 +1,133 @@
+{
+    "$schema": "https://github.com/Chatterino/chatterino2/raw/master/docs/ChatterinoTheme.schema.json",
+    "colors": {
+        "accent": "#535353",
+        "messages": {
+            "backgrounds": {
+                "alternate": "#121212",
+                "regular": "#121212"
+            },
+            "disabled": "#aa323232",
+            "highlightAnimationEnd": "#00121212",
+            "highlightAnimationStart": "#6eB14242",
+            "selection": "#50e5e5e5",
+            "textColors": {
+                "caret": "#b4b4b4",
+                "chatPlaceholder": "#737373",
+                "link": "#DF6464",
+                "regular": "#b4b4b4",
+                "system": "#737373"
+            }
+        },
+        "overlayMessages": {
+            "backgrounds": {
+                "alternate": "#121212",
+                "regular": "transparent"
+            },
+            "disabled": "#aa323232",
+            "selection": "#50e5e5e5",
+            "textColors": {
+                "caret": "#b4b4b4",
+                "chatPlaceholder": "#737373",
+                "link": "#DF6464",
+                "regular": "#b4b4b4",
+                "system": "#737373"
+            },
+            "background": "#121212"
+        },
+        "scrollbars": {
+            "background": "#00121212",
+            "thumb": "#323232",
+            "thumbSelected": "#535353"
+        },
+        "splits": {
+            "background": "#121212",
+            "dropPreview": "#30323232",
+            "dropPreviewBorder": "#323232",
+            "dropTargetRect": "#ff323232",
+            "dropTargetRectBorder": "#323232",
+            "header": {
+                "background": "#121212",
+                "border": "#323232",
+                "focusedBackground": "#121212",
+                "focusedBorder": "#323232",
+                "focusedText": "#d5d5d5",
+                "text": "#b4b4b4"
+            },
+            "input": {
+                "background": "#1d1d1d",
+                "backgroundPulse": "#25DF6464",
+                "searchFailText": "#E5A72A",
+                "searchHighlightBackground": "#504A8B8B",
+                "text": "#d5d5d5"
+            },
+            "messageSeperator": "#323232",
+            "resizeHandle": "#ff535353",
+            "resizeHandleBackground": "#20535353"
+        },
+        "tabs": {
+            "liveIndicator": "#B14242",
+            "rerunIndicator": "#E49A44",
+            "dividerLine": "#323232",
+            "highlighted": {
+                "backgrounds": {
+                    "hover": "#191919",
+                    "regular": "#121212",
+                    "unfocused": "#121212"
+                },
+                "line": {
+                    "hover": "#B14242",
+                    "regular": "#B14242",
+                    "unfocused": "#B14242"
+                },
+                "text": "#d5d5d5"
+            },
+            "newMessage": {
+                "backgrounds": {
+                    "hover": "#191919",
+                    "regular": "#121212",
+                    "unfocused": "#121212"
+                },
+                "line": {
+                    "hover": "#4A8B8B",
+                    "regular": "#4A8B8B",
+                    "unfocused": "#4A8B8B"
+                },
+                "text": "#d5d5d5"
+            },
+            "regular": {
+                "backgrounds": {
+                    "hover": "#191919",
+                    "regular": "#121212",
+                    "unfocused": "#121212"
+                },
+                "line": {
+                    "hover": "#323232",
+                    "regular": "#323232",
+                    "unfocused": "#323232"
+                },
+                "text": "#b4b4b4"
+            },
+            "selected": {
+                "backgrounds": {
+                    "hover": "#323232",
+                    "regular": "#323232",
+                    "unfocused": "#323232"
+                },
+                "line": {
+                    "hover": "#C4693D",
+                    "regular": "#C4693D",
+                    "unfocused": "#C4693D"
+                },
+                "text": "#d5d5d5"
+            }
+        },
+        "window": {
+            "background": "#121212",
+            "text": "#d5d5d5"
+        }
+    },
+    "metadata": {
+        "iconTheme": "light"
+    }
+}
